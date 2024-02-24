@@ -30,7 +30,7 @@
    
 <div/>
   
- [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,mysql)](https://skills.thijs.gg)
+ [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,mysql,python)](https://skills.thijs.gg)
 </div>
 
 
